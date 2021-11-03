@@ -1,0 +1,8 @@
+2021-11-03 15:18:09,177 root WARNING: Invalid login for some user.
+2021-11-03 15:18:09,177 root ERROR: Some error append.
+2021-11-03 15:18:09,177 root CRITICAL: Critical error in program.
+2021-11-03 15:18:09,177 root Level 35: User don't have account.
+2021-11-03 15:18:09,178 root WARNING: Invalid login for some user.
+2021-11-03 15:18:09,178 root ERROR: Some error append.
+2021-11-03 15:18:09,178 root CRITICAL: Critical error in program.
+2021-11-03 15:18:09,178 foo Level 35: User don't have account.
